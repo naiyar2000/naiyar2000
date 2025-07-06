@@ -9,7 +9,7 @@
 - 🛠️ Currently working on a Notion-style note-taking app called **[turbonote](#)** using Next.js, Prisma, and PostgreSQL
 - 🌱 Learning more about **real-time collaboration, rich-text editors, and system architecture**
 - 🧠 I'm interested in **developer tools, digital productivity, and performance optimization**
-- 📫 How to reach me: [naijiraf@gmail.com](mailto:naijiraf@gmail.com)
+- 📫 How to reach me: [naiyarimam.2000@gmail.com](mailto:naiyarimam.2000@gmail.com)
 
 ---
 
@@ -28,9 +28,6 @@
 
 - 📊 **Portfolio Website** — My personal website built with animations and theme toggles  
   <sub>Next.js · Tailwind · ShadCN UI · Vercel</sub>
-
-- 🔐 **Auth System** — Firebase + Backend Auth API using Google login, Prisma, and secure token handling  
-  <sub>Node.js · Firebase · PostgreSQL</sub>
 
 ---
 
@@ -52,9 +49,8 @@
 
 ### ☕ Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/naijiraf)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/naiyar-imam-370025182/)
+- 🌐 [Portfolio](https://naiyar2000.github.io/Portfolio/)
 
 ---
 
