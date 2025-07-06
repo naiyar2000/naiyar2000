@@ -4,6 +4,9 @@
 <h3 align="center">
   Full Stack Developer · Passionate about Clean UX, Real-Time Apps & Dev Tools
 </h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> 
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Building+Notion-style+UX+for+the+web;Creating+real-time+collaborative+tools;Exploring+Editor+Tech+%2B+Infra+Design" alt="Typing animation" />
