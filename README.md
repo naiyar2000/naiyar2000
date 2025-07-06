@@ -1,61 +1,89 @@
-<h1 align="center">Hi 👋, I'm Naiyar Imam</h1>
-<h3 align="center">A Passionate Full Stack Developer | Problem Solver | Learner</h3>
-
----
-
-### 🚀 About Me
-
-- 💻 I love building **intuitive web apps** and exploring how **design meets code**
-- 🛠️ Currently working on a Notion-style note-taking app called **[turbonote](#)** using Next.js, Prisma, and PostgreSQL
-- 🌱 Learning more about **real-time collaboration, rich-text editors, and system architecture**
-- 🧠 I'm interested in **developer tools, digital productivity, and performance optimization**
-- 📫 How to reach me: [naiyarimam.2000@gmail.com](mailto:naiyarimam.2000@gmail.com)
-
----
-
-### 🧰 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,nodejs,prisma,postgres,firebase,aws,docker,git" />
-</p>
-
----
-
-### 🔨 Projects I'm Proud Of
-
-- 🧠 **turbonote** — Notion-style note app with real-time sync, autosave, full-text search  
-  <sub>Next.js · Tiptap · PostgreSQL · WebSockets</sub>
-
-- 📊 **Portfolio Website** — My personal website built with animations and theme toggles  
-  <sub>Next.js · Tailwind · ShadCN UI · Vercel</sub>
-
----
-
-### 📈 GitHub Stats
+<h1 align="center">
+  Hi, I'm Naiyar Imam 👋
+</h1>
+<h3 align="center">
+  Full Stack Developer · Passionate about Clean UX, Real-Time Apps & Dev Tools
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naiyar2000&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="Naiyar's GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naiyar2000&theme=tokyonight&hide_border=true&border_radius=12" alt="Naiyar's GitHub Streak" height="180"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=460&lines=Building+Notion-style+UX+for+the+web;Creating+real-time+collaborative+tools;Exploring+Editor+Tech+%2B+Infra+Design" alt="Typing animation" />
 </p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a developer who enjoys turning complex problems into elegant, performant apps.
+
+- 💡 Currently building: **[Turbonote](#)** — a Notion-style note-taking app with block-based editing, real-time sync, and full-text search
+- 🧱 Passionate about **design systems**, **rich text editors**, and **developer infrastructure**
+- 📚 Constantly learning about **system design, collaboration models, and database performance**
+- 📫 Reach me at: [naiyarimam.2000@gmail.com](mailto:naiyarimam.2000@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyar2000&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" height="150"/>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=nextjs" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=react" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=tailwind" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=typescript" target="_blank"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=javascript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=nodejs" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=prisma" target="_blank"><img src="https://skillicons.dev/icons?i=prisma" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=postgres" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=firebase" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=aws" target="_blank"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=docker" target="_blank"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://github.com/naiyar2000?tab=repositories&q=git" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
 </p>
 
----
-
-### ✍️ Blog & Writings
-
-> _Coming soon..._ Will share ideas on system design, developer workflows, and side project learnings.
 
 ---
 
-### ☕ Let's Connect
+## 🚀 Featured Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/naiyar-imam-370025182/)
-- 🌐 [Portfolio](https://naiyar2000.github.io/Portfolio/)
+### 📓 Turbonote
+_Notion-style app with real-time sync, autosave, and block-based editing_  
+<sub><code>Next.js · Prisma · PostgreSQL · Tiptap · WebSockets</code></sub>
+
+### 🌐 Portfolio Website  
+_Minimal personal site with animations and responsive dark mode_  
+<sub><code>Next.js · TailwindCSS · ShadCN UI · Vercel</code></sub>
 
 ---
 
-_Thanks for stopping by! Don't forget to ⭐️ some projects if you find them useful._
+## 📊 GitHub Stats
 
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=naiyar2000&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=naiyar2000&theme=tokyonight&hide_border=true&border_radius=8" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyar2000&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="60%"/>
+
+</div>
+
+
+---
+
+## 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/naiyar-imam-370025182/)
+- [Portfolio](https://naiyar2000.github.io/Portfolio/)
+- [Email](mailto:naiyarimam.2000@gmail.com)
+
+---
+
+<p align="center">
+  <sub>“Clean code, clean UI, clear purpose.”</sub>
+</p>
