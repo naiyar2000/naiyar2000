@@ -34,9 +34,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naijiraf&show_icons=true&theme=tokyonight" alt="Naiyar's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naijiraf&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naiyar2000&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" alt="Naiyar's GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naiyar2000&theme=tokyonight&hide_border=true&border_radius=12" alt="Naiyar's GitHub Streak" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyar2000&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top Languages" height="150"/>
 </p>
 
 ---
