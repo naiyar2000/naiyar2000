@@ -14,6 +14,7 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
 I'm a developer who enjoys turning complex problems into elegant, performant apps.
@@ -57,33 +58,40 @@ _Minimal personal site with animations and responsive dark mode_
 
 ---
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=naiyar2000&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=naiyar2000&theme=tokyonight&hide_border=true&border_radius=8" width="100%"/>
-    </td>
-  </tr>
-</table>
+<!-- GitHub Stats Row -->
+<img src="https://github-readme-stats.vercel.app/api?username=naiyar2000&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" width="48%" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=naiyar2000&theme=tokyonight&hide_border=true&border_radius=8" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyar2000&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="60%"/>
+<!-- Most Used Languages -->
+<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyar2000&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" width="60%" />
+
+<!-- Profile Summary Card -->
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naiyar2000&theme=tokyonight" width="90%" />
+
+<!-- Contribution Trophies -->
+<br/><br/>
+<img src="https://github-profile-trophy.vercel.app/?username=naiyar2000&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" width="100%" />
 
 </div>
 
 
+
 ---
+
+
 
 ## 🤝 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/naiyar-imam-370025182/)
-- [Portfolio](https://naiyar2000.github.io/Portfolio/)
-- [Email](mailto:naiyarimam.2000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://naiyar2000.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naiyar-imam-370025182)
+[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naiyarimam.2000@gmail.com)
 
 ---
 
