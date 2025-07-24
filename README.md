@@ -65,7 +65,7 @@ _Minimal personal site with animations and responsive dark mode_
 
 
 <!-- GitHub Stats Row -->
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 24px; justify-items: center; align-items: stretch; width: 100%; max-width: 1000px; margin: 0 auto;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 24px; justify-items: center; align-items: stretch; width: 100%; max-width: 600px; margin: 0 auto;">
   <img src="https://github-readme-stats.vercel.app/api?username=naiyar2000&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&include_all_commits=true&count_private=true" style="width:100%; min-width:250px; max-width:400px; border-radius:8px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=naiyar2000&theme=tokyonight&hide_border=true&border_radius=8" style="width:100%; min-width:250px; max-width:400px; border-radius:8px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyar2000&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" style="width:100%; min-width:250px; max-width:400px; border-radius:8px;" />
