@@ -70,7 +70,7 @@ _Minimal personal site with animations and responsive dark mode_
   <img src="https://github-readme-streak-stats.herokuapp.com?user=naiyar2000&theme=tokyonight&hide_border=true&border_radius=8" style="width:100%; width:250px; border-radius:8px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiyar2000&layout=compact&theme=tokyonight&hide_border=true&border_radius=8" style="width:100%; width:250px; border-radius:8px;" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naiyar2000&theme=tokyonight" style="width:100%; width:250px; border-radius:8px;" />
-  <img src="https://github-profile-trophy.vercel.app/?username=naiyar2000&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" style="width:100%; grid-column: 1 / -1; border-radius:8px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naiyar2000&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" style="width:90%; grid-column: 1 / -1; border-radius:8px;" />
 </div>
 
 
